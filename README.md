@@ -11,6 +11,10 @@
 - Todas las noticias deben tener el mismo formato y mostrar los datos especificados de forma elegante a todo dispositivo.
 -------------------
 #	Cambios realizados en la idea.
+## V1.1 
+- Se ha eliminado el Banner, la barra se ha introducido en la parte superior, en esa barra en la parte izquierda he añadido el logo.
+- Se ha añadido un carrusel de imágenes justo después de la barra.  
+
 
 -------------------
 # Idea:

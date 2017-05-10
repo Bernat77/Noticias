@@ -1,0 +1,16 @@
+{
+	"news": [
+		{
+			"titulo": "Evento de bonificación semanal: Campos de batalla",
+			"descripcion": "El sistema de eventos de bonificación consiste en una programación rotativa de diferentes actividades, que se prolongan durante una semana y que comienzan cada martes. Cada evento de bonificación otorga una bonificación pasiva a una actividad del juego en concreto y ofrece una misión única con una jugosa recompensa por completar un objetivo relacionado.",
+			"img": "img\noticias\Evento_3_5_2017.png",
+			"fecha": "3/5/2017"
+		},
+		{
+			"titulo": "Anna",
+			"descripcion": "Meyers",
+			"img": "Meyers",
+			"fecha": "Meyers"
+		}
+	]
+}

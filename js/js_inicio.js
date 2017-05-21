@@ -127,7 +127,8 @@ $(window).scroll(function () {
         } else {
             $('#mas').text('No hay más noticias');
         }
-    }});
+    }
+});
 
 
 function cargar() {
@@ -152,3 +153,21 @@ function addrow(json) {
             '<p class="text-right">' + "<em>" + item.fecha + "</em>" + "</p>" + "</div>" + "</div>" + "</div>");
     })
 };
+
+$(document).ready(function () {
+    $("#compface").click(function () {
+        var shareurl = window.location.href;
+        window.open('https://www.facebook.com/sharer/sharer.php?u=' + escape(shareurl), document.title,
+            'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=300,width=600');
+        return false;
+    });
+});
+
+$(document).ready(function () {
+    $("#comptw").click(function () {
+        var shareurl = window.location.href;
+        window.open('http://twitter.com/share?text=' + document.title + '&url=' + escape(shareurl), document.title,
+            'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=300,width=600');
+        return false;
+    });
+});

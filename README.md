@@ -1,4 +1,5 @@
 # Noticias
+https://rawgit.com/arsg93/Noticias/master/news.html
 -------------------
 # Especificaciones:
 

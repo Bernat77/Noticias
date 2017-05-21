@@ -118,7 +118,7 @@ $(window).scroll(function () {
 $(document).ready(function () {
     $("#compface").click(function () {
         var shareurl = window.location.href;
-        window.open('https://www.facebook.com/sharer/sharer.php?u=' + escape(shareurl) + '&t=' + document.title, '',
+        window.open('https://www.facebook.com/sharer/sharer.php?u=' + escape(shareurl) , document.title,
             'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=300,width=600');
         return false;
     });
@@ -127,7 +127,7 @@ $(document).ready(function () {
 $(document).ready(function () {
     $("#comptw").click(function () {
         var shareurl = window.location.href;
-        window.open('https://www.facebook.com/sharer/sharer.php?u=' + escape(shareurl) + '&t=' + document.title, '',
+        window.open('http://twitter.com/share?text=' + document.title + '&url=' + escape(shareurl), document.title,
             'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=300,width=600');
         return false;
     });

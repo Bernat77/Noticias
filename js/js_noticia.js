@@ -1,4 +1,3 @@
-
 $(function () {
     $('.navbar-nav > li > a').css('line-height', '75px');
     if (window.matchMedia('(max-width: 976px)').matches) {
@@ -116,3 +115,20 @@ $(window).scroll(function () {
 
 });
 
+$(document).ready(function () {
+    $("#compface").click(function () {
+        var shareurl = window.location.href;
+        window.open('https://www.facebook.com/sharer/sharer.php?u=' + escape(shareurl) + '&t=' + document.title, '',
+            'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=300,width=600');
+        return false;
+    });
+});
+
+$(document).ready(function () {
+    $("#comptw").click(function () {
+        var shareurl = window.location.href;
+        window.open('https://www.facebook.com/sharer/sharer.php?u=' + escape(shareurl) + '&t=' + document.title, '',
+            'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=300,width=600');
+        return false;
+    });
+});

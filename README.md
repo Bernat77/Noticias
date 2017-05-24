@@ -11,14 +11,20 @@ https://rawgit.com/arsg93/Noticias/master/news.html
 - Cada página debe contener las etiquetas meta (con open graph) para compartir título, descripción, imagen (grande), nombre de la aplicación y url de la página. **Hecho**
 -------------------
 #	Cambios realizados en la idea.
-## V1.5
+## V1.6
 - Se ha añadido un footer con las opciones de compartir tanto en Facebook y Twitter, tanto en la página principal como en cada noticia.
-## V1.4
+## V1.5
 - La barra de navegación tiene una botonera de iniciar sesión en la parte derecha de esta.
-## V1.3
+## V1.4
 - La barra de navegación ahora hace un efecto de reducir su tamaña (incluyendo el logo) al hacer scroll hacia abajo.
-## V1.2
+## V1.3
 - Se ha introducido el widget de twitter con las noticias de warcraft oficial en el lateral derecho, debajo de la publicidad.
+## V1.2
+### Después de presentar la idea en clase se van a realizar los siguientes cambios:
+- La disposición de las noticias será de 2 en cada fila ya que introduciendo 3 quedarían excesivamente pequeñas.
+- Habrá 4 precargadas y se realizaran 5 json con 2 noticias cada uno para resaltar la carga del mismo.
+
+
 ## V1.1 
 - Se ha eliminado el Banner, la barra se ha introducido en la parte superior, en esa barra en la parte izquierda he añadido el logo.
 - Se ha añadido un carrusel de imágenes justo después de la barra.  

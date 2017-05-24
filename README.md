@@ -19,15 +19,13 @@ https://rawgit.com/arsg93/Noticias/master/news.html
 - La barra de navegación ahora hace un efecto de reducir su tamaña (incluyendo el logo) al hacer scroll hacia abajo.
 ## V1.3
 - Se ha introducido el widget de twitter con las noticias de warcraft oficial en el lateral derecho, debajo de la publicidad.
-## V1.2
+## V1.2 
+- Se ha eliminado el Banner, la barra se ha introducido en la parte superior, en esa barra en la parte izquierda he añadido el logo.
+- Se ha añadido un carrusel de imágenes justo después de la barra.  
+## V1.1
 ### Después de presentar la idea en clase se van a realizar los siguientes cambios:
 - La disposición de las noticias será de 2 en cada fila ya que introduciendo 3 quedarían excesivamente pequeñas.
 - Habrá 4 precargadas y se realizaran 5 json con 2 noticias cada uno para resaltar la carga del mismo.
-
-
-## V1.1 
-- Se ha eliminado el Banner, la barra se ha introducido en la parte superior, en esa barra en la parte izquierda he añadido el logo.
-- Se ha añadido un carrusel de imágenes justo después de la barra.  
 
 
 -------------------

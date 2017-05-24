@@ -1,5 +1,7 @@
 # Noticias
-https://rawgit.com/arsg93/Noticias/master/news.html
+- Tenemos dos branch versión indentada en el branch master y otra minify en el branch minify.
+- Enlace a rawgit de news.html:
+- https://rawgit.com/arsg93/Noticias/master/news.html
 -------------------
 # Especificaciones y estado :
 - Realiza la maquetación del proyecto. Entrega un breve documento con el análisis y la planificación al README.md (valen fotos de esquemas del cuaderno). **Hecho**
